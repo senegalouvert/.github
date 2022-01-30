@@ -1,4 +1,11 @@
-## Hi there 👋
+## À propos de sénégal ouvert
+
+Nous publions des données ouvertes sur le Sénégal 🇸🇳 nous sommes une initiative d'**[Open Knowledge Senegal](https://sn.okfn.org)**
+
+## Nos Organisations, partenaires
+
+* [Code for Senegal](https://github.com/Code-for-Senegal)
+* [OpenCOVID19 Sénégal](https://github.com/OpenCOVID19-Senegal)
 
 <!--
 
